@@ -1,0 +1,14 @@
+{
+  "name": "first_api",
+  "version": "1.0.0",
+  "description": "first api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "test",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
